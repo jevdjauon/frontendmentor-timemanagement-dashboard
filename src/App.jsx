@@ -23,7 +23,7 @@ const App = () => {
         <div className="user-card">
           <div className="top">
             <div className="user-image">
-              <img src="./src/images/user.png" alt="" />
+              <img src="../src/images/user.png" alt="" />
             </div>
             <div className="user-info">
               <p>Report for</p>
@@ -73,7 +73,7 @@ const App = () => {
                 </div>
                 <div className="right">
                   <div className="menuButton">
-                    <img src="./src/images/icon-ellipsis.svg" alt="" />
+                    <img src="../src/images/icon-ellipsis.svg" alt="" />
                   </div>
                   <p>
                     <span>Last Week - </span>
